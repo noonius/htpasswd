@@ -1,3 +1,5 @@
+require "htpasswd/version"
+
 require 'htpasswd/class_methods'
 
 require 'htpasswd/acls/base'
