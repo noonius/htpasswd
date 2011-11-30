@@ -1,3 +1,5 @@
+require 'active_support'
+
 require "htpasswd/version"
 
 require 'htpasswd/class_methods'
